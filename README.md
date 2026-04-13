@@ -48,19 +48,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)---
 
-## 📊 GitHub Statistics
-
-### Overall Stats
-![](https://github-readme-stats.vercel.app/api?username=keyur-369&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### Contribution Streak
-![](https://nirzak-streak-stats.vercel.app/?user=keyur-369&theme=github_dark&hide_border=false)
-
-### Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keyur-369&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 🎯 Featured Projects
 
 Coming soon! Check out my repositories for active projects.
