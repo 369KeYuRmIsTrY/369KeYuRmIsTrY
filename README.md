@@ -50,6 +50,61 @@
 
 ## 🎯 Featured Projects
 
+## 🏨 Hotel Management System
+A hotel booking and management platform with room booking, admin management, and user authentication.
+
+**Features**
+- Room booking
+- Booking dashboard
+- Authentication system
+- Responsive UI
+
+**Tech Stack**  
+`PHP` `MySQL` `Bootstrap`
+
+---
+
+## 🧾 GST Billing Application
+A billing and invoice generation application designed for local businesses with simple and user-friendly workflows.
+
+**Features**
+- GST invoice generation
+- PDF export
+- Product management
+- Customer records
+
+**Tech Stack**  
+`Flutter` `Supabase`
+
+---
+
+## 🎓 Education Management System
+A smart academic management system for handling students, attendance, schedules, and instructor operations.
+
+**Features**
+- Attendance management
+- Timetable system
+- Instructor dashboard
+- Assignment uploads
+
+**Tech Stack**  
+`Flutter` `PostgreSQL` `Supabase`
+
+---
+
+## 📦 HomeFixer Platform
+A service marketplace platform connecting customers with service providers through a modern mobile application.
+
+**Features**
+- Service booking
+- Real-time status updates
+- Authentication
+- Provider management
+
+**Tech Stack**  
+`Flutter` `Firebase` `REST APIs`
+
+---
 Coming soon! Check out my repositories for active projects.
 
 ---
